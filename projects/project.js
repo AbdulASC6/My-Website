@@ -2,7 +2,7 @@ let circles = []
 let circles2 = []
 function setup(){
     createCanvas(1270,1500)
-    for(i = 0; i <20;i++){
+    for(i = 0; i <25;i++){
         let circle = {
         x : 1000,
         y : 50  + (i*65),
@@ -10,7 +10,7 @@ function setup(){
         }
     circles.push(circle)
     }
-    for(i = 0; i <20;i++){
+    for(i = 0; i <25;i++){
         let circle2 = {
         x : 200,
         y : 50 + (i*65) ,
