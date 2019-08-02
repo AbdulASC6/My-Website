@@ -2,36 +2,39 @@
     font-family: 'Titillium Web', sans-serif;
     color: white;
 }
+#body_2{
+    text-align: center;
+}
 img{
     margin-bottom: 10px;
-    width: 400px;
+    width: 600px;
     height: auto;
+    margin-top: 10px;
 }
-ul{
+.text{
+    text-align: center;
+    text-decoration: underline white;
+}
+h3{
+    text-decoration: underline white;
+    font-size: 30px;
+}
+#nav{
     background-color: rgba(255, 255, 255, .3);
+    margin: 0px 20px 0px 20px;
     border: 1px white;
     border-radius: 12px;
     word-spacing: 25px;
+    color: white;
 }
 li{
     display: inline;
     font-size: 20px;
+    color: white;
 }
 a{
     text-decoration: none;
     color: white;
-}
-h1{
-    margin-top: 150px;
-    text-align: center;
-    font-size: 150px;
-    color: rgb(255, 255, 255)
-
-}
-p{
-    padding: 10px;
-    font-size: 20px;
-    text-align: center;
 }
 #defaultCanvas0{
     position: absolute;

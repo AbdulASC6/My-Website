@@ -1,14 +1,16 @@
+.contact{
+    margin-top: 50px;
+    border-radius: 50%;
+    width: 200px;
+    height: auto;
+}
 #body{
     font-family: 'Titillium Web', sans-serif;
     color: white;
 }
-img{
-    margin-bottom: 10px;
-    width: 400px;
-    height: auto;
-}
 ul{
     background-color: rgba(255, 255, 255, .3);
+    margin: 0px 20px 0px 20px;
     border: 1px white;
     border-radius: 12px;
     word-spacing: 25px;
@@ -20,18 +22,6 @@ li{
 a{
     text-decoration: none;
     color: white;
-}
-h1{
-    margin-top: 150px;
-    text-align: center;
-    font-size: 150px;
-    color: rgb(255, 255, 255)
-
-}
-p{
-    padding: 10px;
-    font-size: 20px;
-    text-align: center;
 }
 #defaultCanvas0{
     position: absolute;
